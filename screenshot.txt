@@ -1,0 +1,7 @@
+Please create a screenshot.png file with the following specifications:
+
+1. Image dimensions: 1200x900 pixels
+2. Format: PNG
+3. Content: A preview of the ProSEOKit theme showing the homepage with SEO tools
+4. The image should be placed in the theme's root directory
+5. File name must be: screenshot.png (lowercase) 

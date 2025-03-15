@@ -1,0 +1,15 @@
+/*
+Theme Name: ProSEOKit
+Theme URI: https://nvihan.com
+Author: nvihan.com
+Author URI: https://nvihan.com
+Description: A comprehensive SEO tools suite theme with modern design and functionality
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: proseokit
+Tags: seo, tools, modern, responsive
+*/
+
+/* Import Tailwind CSS */
+@import 'assets/css/tailwind.css'; 
